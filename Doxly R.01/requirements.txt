@@ -1,0 +1,10 @@
+django==4.2.20
+djangorestframework==3.14.0
+python-dotenv==1.0.0
+cryptography
+boto3
+google-api-python-client
+speechrecognition
+requests
+PyQt6
+PyQt6-sip
